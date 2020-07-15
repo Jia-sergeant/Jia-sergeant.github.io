@@ -9,5 +9,6 @@
  Try playing my new game! [here](https://jia-wiggly-feather-editoria.glitch.me/).
  In order to play this game, you must collect all 9 coins within a time span of 30 seconds.
  
+ Check out my new Pokemon Simulator game [here](https://jia-cookie-sequoia-grandparent.glitch.me/)!
  
  I am here to learn.
